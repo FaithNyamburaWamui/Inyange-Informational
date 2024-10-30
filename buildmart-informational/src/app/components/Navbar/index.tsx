@@ -12,8 +12,8 @@ const HamburgerMenu: React.FC<HamburgerMenuProps> = ({ toggleMenu }) => {
   const menuItems = [
     { href: "#home", text: "Home" },
     { href: "#features", text: "Features" },
-    { href: "#pricing", text: "Pricing" },
-    { href: "#about", text: "About" },
+    { href: "#service", text: "services" },
+    { href: "#team", text: "Team" },
   ];
 
   return (
